@@ -1,8 +1,8 @@
-import Image from 'next/image';
-import Link from 'next/link';
+import Image from "next/image";
+import Link from "next/link";
 
-import Animation from '@/components/animation';
-import Socials from '@/components/socials';
+import Animation from "@/components/animation";
+import Socials from "@/components/socials";
 
 export default function Home() {
   return (
@@ -59,7 +59,7 @@ export default function Home() {
               </p>
 
               <p>
-                All of my projects are open source and you can find them on my{' '}
+                All of my projects are open source and you can find them {' '}
                 <Link
                   href="https://github.com/camdzic"
                   target="_blank"
