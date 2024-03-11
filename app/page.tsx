@@ -47,19 +47,19 @@ export default function Home() {
                 Hey, I&apos;m <span className="text-neutral-100">Aldin</span> -
                 a software engineer from Bosnia and Herzegovina. My first
                 experience with programming was making Lua scripts for a game
-                called Roblox to make my own games at{' '}
+                called Roblox to make my own games at{" "}
                 <span className="text-neutral-100">9 years old</span>.
               </p>
 
               <p>
                 I&apos;m currently learning about web development and I&apos;m a
                 big fan of TypeScript. I also like to build discord bots in my
-                free time. I&apos;m currently pursuing a degree in{' '}
+                free time. I&apos;m currently pursuing a degree in{" "}
                 <span className="text-neutral-100">Computer Science</span>.
               </p>
 
               <p>
-                All of my projects are open source and you can find them {' '}
+                All of my projects are open source and you can find them{" "}
                 <Link
                   href="https://github.com/camdzic"
                   target="_blank"
@@ -72,15 +72,15 @@ export default function Home() {
 
               <p>
                 Feel free to contact me for any reason, even if it&apos;s just
-                to say hi! You can find me on{' '}
+                to say hi! You can find me on{" "}
                 <Link
-                  href="https://discord.com/users/1182415658189848658"
+                  href="https://discord.com/users/1201578913336397870"
                   target="_blank"
                   className="text-neutral-100 hover:text-neutral-500 transition-all duration-150"
                 >
                   Discord
-                </Link>{' '}
-                or send an email to{' '}
+                </Link>{" "}
+                or send an email to{" "}
                 <Link
                   href="mailto:aldin@camdzic.dev"
                   target="_blank"
