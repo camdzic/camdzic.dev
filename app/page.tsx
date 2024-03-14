@@ -22,7 +22,7 @@ export default function Home() {
         <div className="flex flex-row space-x-2 items-center">
           <div className="relative mr-2">
             <Image
-              src="https://cdn.discordapp.com/avatars/1182415658189848658/db4bf768b19be4e2aef5207d91f0a311.png"
+              src="https://avatars.githubusercontent.com/u/111543914"
               alt="discord avatar"
               width={80}
               height={80}
